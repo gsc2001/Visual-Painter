@@ -1,0 +1,5 @@
+﻿  Visual painter.cpp
+C:\Users\gurki\self_projects\Visual painter\Visual painter\Visual painter.cpp(26,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gurki\self_projects\Visual painter\Visual painter\Visual painter.cpp(27,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gurki\self_projects\Visual painter\Visual painter\Visual painter.cpp(59,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Visual painter.vcxproj -> C:\Users\gurki\self_projects\Visual painter\x64\Debug\Visual painter.exe
